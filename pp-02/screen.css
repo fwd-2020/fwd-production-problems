@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import url('//basehold.it/25');
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/* stylelint-disable */
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}html{line-height:1}body{line-height:inherit}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+/* stylelint-enable */
+
+/* Begin site styles below */
+
+/*
+  Setting type according to a 3:4 (Major Third) Modular Scale:
+  https://www.modularscale.com/?20&px&1.333
+*/
+
+html {
+  font-family: 'Crimson Text', 'Hoefler Text', Georgia, 'Times New Roman', Times, Roman, serif;
+  font-size: 1.25em; /* 20px / 16px = 1.25 */
+  line-height: 1.25em; /* 25px / 20px = 1.25 */
+  padding: 18px; /* TRBL */
+}
+
+h1 {
+  font-size: 1.25em; /* 20px / 16px = 1.7769 */
+  padding-bottom: 25px;
+}
+ul {
+  margin-left: 14px;
+  padding-bottom: 14px;
+  list-style-type: disc;
+}
