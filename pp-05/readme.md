@@ -7,6 +7,6 @@ you’re working on colors for your Project 3, the feature branch should be call
 1. Create your feature branch locally on Git, check it out, and then push the feature branch to
    GitHub.
 
-2. Write the GitHub URL for your feature branch here: https://github.com/JacksonJohar/johar-project-two/tree/queries
+2. Write the GitHub URL for your feature branch here: https://github.com/JacksonJohar/johar-project-three/tree/queries
 
 Don't forget now to commit and push that change to your Production Problems fork.
